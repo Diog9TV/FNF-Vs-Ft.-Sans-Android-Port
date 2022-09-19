@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Main_arrows.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow left0000" x="0" y="0" width="67" height="115"/>
+	<SubTexture name="arrow push left0000" x="71" y="0" width="67" height="115" frameX="-2" frameY="-3" frameWidth="71" frameHeight="120"/>
+	<SubTexture name="arrow push left0001" x="71" y="0" width="67" height="115" frameX="-2" frameY="-3" frameWidth="71" frameHeight="120"/>
+	<SubTexture name="arrow push left0002" x="142" y="0" width="71" height="120"/>
+	<SubTexture name="arrow push left0003" x="142" y="0" width="71" height="120"/>
+	<SubTexture name="arrow push right0000" x="0" y="124" width="67" height="115" frameX="-2" frameY="-3" frameWidth="71" frameHeight="120"/>
+	<SubTexture name="arrow push right0001" x="0" y="124" width="67" height="115" frameX="-2" frameY="-3" frameWidth="71" frameHeight="120"/>
+	<SubTexture name="arrow push right0002" x="71" y="124" width="71" height="120"/>
+	<SubTexture name="arrow push right0003" x="71" y="124" width="71" height="120"/>
+	<SubTexture name="arrow right0000" x="146" y="124" width="67" height="115"/>
+</TextureAtlas>
