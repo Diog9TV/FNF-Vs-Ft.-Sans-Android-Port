@@ -86,7 +86,7 @@
 				0,
 				-9
 			],
-			"fps": 24,
+			"fps": 120,
 			"anim": "danceLeft",
 			"indices": [
 				30,
@@ -114,7 +114,7 @@
 				0,
 				-9
 			],
-			"fps": 24,
+			"fps": 120,
 			"anim": "danceRight",
 			"indices": [
 				15,
