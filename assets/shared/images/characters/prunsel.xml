@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="prunsel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="prunsel down instância 10000" x="100" y="0" width="478" height="416" frameX="-3" frameY="-1" frameWidth="471" frameHeight="408"/>
+	<SubTexture name="prunsel down instância 10001" x="578" y="0" width="478" height="416" frameX="-3" frameY="-1" frameWidth="471" frameHeight="408"/>
+	<SubTexture name="prunsel idol instância 10000" x="1056" y="0" width="478" height="444" frameX="0" frameY="0" frameWidth="465" frameHeight="436"/>
+	<SubTexture name="prunsel idol instância 10001" x="1056" y="0" width="478" height="444" frameX="0" frameY="0" frameWidth="465" frameHeight="436"/>
+	<SubTexture name="prunsel idol instância 10002" x="0" y="444" width="478" height="444" frameX="0" frameY="-2" frameWidth="465" frameHeight="436"/>
+	<SubTexture name="prunsel idol instância 10003" x="0" y="444" width="478" height="444" frameX="0" frameY="-2" frameWidth="465" frameHeight="436"/>
+	<SubTexture name="prunsel idol instância 10004" x="478" y="444" width="478" height="444" frameX="0" frameY="0" frameWidth="465" frameHeight="436"/>
+	<SubTexture name="prunsel idol instância 10005" x="478" y="444" width="478" height="444" frameX="0" frameY="0" frameWidth="465" frameHeight="436"/>
+	<SubTexture name="prunsel left instância 10000" x="956" y="444" width="478" height="444" frameX="-7" frameY="-6" frameWidth="476" frameHeight="440"/>
+	<SubTexture name="prunsel left instância 10001" x="0" y="922" width="497" height="457" frameX="-10" frameY="-6" frameWidth="476" frameHeight="440"/>
+	<SubTexture name="prunsel right instância 10000" x="497" y="922" width="503" height="464" frameX="-5" frameY="0" frameWidth="471" frameHeight="434"/>
+	<SubTexture name="prunsel right instância 10001" x="1000" y="922" width="510" height="475" frameX="0" frameY="0" frameWidth="471" frameHeight="434"/>
+	<SubTexture name="prunsel up instância 10000" x="1534" y="0" width="479" height="445" frameX="-1" frameY="0" frameWidth="465" frameHeight="440"/>
+	<SubTexture name="prunsel up instância 10001" x="1434" y="445" width="479" height="445" frameX="-1" frameY="0" frameWidth="465" frameHeight="440"/>
+</TextureAtlas>

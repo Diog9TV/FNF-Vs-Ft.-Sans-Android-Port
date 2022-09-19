@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansKindaTired.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NoTiredDown0000" x="100" y="0" width="415" height="373" frameX="0" frameY="-10" frameWidth="415" frameHeight="384"/>
+	<SubTexture name="NoTiredDown0001" x="515" y="0" width="414" height="384" frameX="0" frameY="0" frameWidth="415" frameHeight="384"/>
+	<SubTexture name="NoTiredIdle0000" x="929" y="0" width="395" height="413" frameX="0" frameY="-14" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0001" x="929" y="0" width="395" height="413" frameX="0" frameY="-14" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0002" x="929" y="0" width="395" height="413" frameX="0" frameY="-14" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0003" x="0" y="413" width="393" height="424" frameX="-1" frameY="-3" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0004" x="0" y="413" width="393" height="424" frameX="-1" frameY="-3" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0005" x="0" y="413" width="393" height="424" frameX="-1" frameY="-3" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0006" x="393" y="413" width="393" height="427" frameX="-1" frameY="0" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0007" x="393" y="413" width="393" height="427" frameX="-1" frameY="0" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredIdle0008" x="393" y="413" width="393" height="427" frameX="-1" frameY="0" frameWidth="395" frameHeight="427"/>
+	<SubTexture name="NoTiredLeft0000" x="786" y="413" width="539" height="427" frameX="0" frameY="-7" frameWidth="548" frameHeight="434"/>
+	<SubTexture name="NoTiredLeft0001" x="0" y="840" width="536" height="434" frameX="-12" frameY="0" frameWidth="548" frameHeight="434"/>
+	<SubTexture name="NoTiredRight0000" x="536" y="840" width="436" height="454" frameX="-3" frameY="0" frameWidth="439" frameHeight="454"/>
+	<SubTexture name="NoTiredRight0001" x="972" y="840" width="423" height="454" frameX="0" frameY="0" frameWidth="439" frameHeight="454"/>
+	<SubTexture name="NoTiredUp0000" x="1325" y="0" width="374" height="481" frameX="0" frameY="0" frameWidth="378" frameHeight="481"/>
+	<SubTexture name="NoTiredUp0001" x="1395" y="481" width="378" height="467" frameX="0" frameY="-14" frameWidth="378" frameHeight="481"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansTired.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SansTiredDown0000" x="100" y="0" width="414" height="372" frameX="-1" frameY="-11" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="SansTiredDown0001" x="514" y="0" width="414" height="383" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="SansTiredIdle0000" x="928" y="0" width="399" height="403" frameX="0" frameY="-14" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0001" x="928" y="0" width="399" height="403" frameX="0" frameY="-14" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0002" x="928" y="0" width="399" height="403" frameX="0" frameY="-14" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0003" x="0" y="403" width="398" height="416" frameX="-3" frameY="-1" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0004" x="0" y="403" width="398" height="416" frameX="-3" frameY="-1" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0005" x="0" y="403" width="398" height="416" frameX="-3" frameY="-1" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0006" x="398" y="403" width="396" height="417" frameX="-3" frameY="0" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0007" x="398" y="403" width="396" height="417" frameX="-3" frameY="0" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredIdle0008" x="398" y="403" width="396" height="417" frameX="-3" frameY="0" frameWidth="401" frameHeight="417"/>
+	<SubTexture name="SansTiredLeft0000" x="794" y="403" width="542" height="428" frameX="0" frameY="-6" frameWidth="545" frameHeight="434"/>
+	<SubTexture name="SansTiredLeft0001" x="0" y="831" width="531" height="434" frameX="-14" frameY="0" frameWidth="545" frameHeight="434"/>
+	<SubTexture name="SansTiredRight0000" x="531" y="831" width="476" height="453" frameX="-4" frameY="0" frameWidth="480" frameHeight="453"/>
+	<SubTexture name="SansTiredRight0001" x="1336" y="0" width="450" height="453" frameX="0" frameY="0" frameWidth="480" frameHeight="453"/>
+	<SubTexture name="SansTiredUp0000" x="1336" y="453" width="393" height="481" frameX="-1" frameY="0" frameWidth="408" frameHeight="481"/>
+	<SubTexture name="SansTiredUp0001" x="1007" y="934" width="408" height="467" frameX="0" frameY="-14" frameWidth="408" frameHeight="481"/>
+</TextureAtlas>

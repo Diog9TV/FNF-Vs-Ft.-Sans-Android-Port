@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Papyrus_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Papyrus Down instância 10000" x="100" y="0" width="656" height="557" frameX="0" frameY="-7" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10001" x="756" y="0" width="656" height="557" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Idle instância 10000" x="0" y="557" width="693" height="672" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10001" x="0" y="557" width="693" height="672" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10002" x="0" y="557" width="693" height="672" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10003" x="693" y="557" width="701" height="685" frameX="0" frameY="-4" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10004" x="693" y="557" width="701" height="685" frameX="0" frameY="-4" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10005" x="693" y="557" width="701" height="685" frameX="0" frameY="-4" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10006" x="0" y="1242" width="693" height="672"/>
+	<SubTexture name="Papyrus Idle instância 10007" x="0" y="1242" width="693" height="672"/>
+	<SubTexture name="Papyrus Idle instância 10008" x="0" y="1242" width="693" height="672"/>
+	<SubTexture name="Papyrus Left instância 10000" x="693" y="1242" width="769" height="680"/>
+	<SubTexture name="Papyrus Left instância 10001" x="1412" y="0" width="769" height="680" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Right instância 10000" x="1462" y="680" width="661" height="702"/>
+	<SubTexture name="Papyrus Up instância 10000" x="2181" y="0" width="618" height="879"/>
+</TextureAtlas>

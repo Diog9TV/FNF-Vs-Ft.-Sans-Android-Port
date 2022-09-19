@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sans.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans Down0000" x="100" y="0" width="525" height="373" frameX="0" frameY="-11" frameWidth="527" frameHeight="384"/>
+	<SubTexture name="Sans Down0001" x="625" y="0" width="527" height="384"/>
+	<SubTexture name="Sans Idle0000" x="0" y="384" width="511" height="413" frameX="0" frameY="-14" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0001" x="0" y="384" width="511" height="413" frameX="0" frameY="-14" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0002" x="0" y="384" width="511" height="413" frameX="0" frameY="-14" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0003" x="511" y="384" width="513" height="424" frameX="-1" frameY="-3" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0004" x="511" y="384" width="513" height="424" frameX="-1" frameY="-3" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0005" x="511" y="384" width="513" height="424" frameX="-1" frameY="-3" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0006" x="1024" y="384" width="513" height="427" frameX="-1" frameY="0" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0007" x="1024" y="384" width="513" height="427" frameX="-1" frameY="0" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Idle0008" x="1024" y="384" width="513" height="427" frameX="-1" frameY="0" frameWidth="514" frameHeight="427"/>
+	<SubTexture name="Sans Left0000" x="0" y="808" width="539" height="428" frameX="0" frameY="-6" frameWidth="543" frameHeight="434"/>
+	<SubTexture name="Sans Left0001" x="539" y="811" width="530" height="434" frameX="-13" frameY="0" frameWidth="543" frameHeight="434"/>
+	<SubTexture name="Sans Right0000" x="1537" y="0" width="515" height="454" frameX="-3" frameY="0" frameWidth="518" frameHeight="454"/>
+	<SubTexture name="Sans Right0001" x="1537" y="454" width="485" height="454" frameX="0" frameY="0" frameWidth="518" frameHeight="454"/>
+	<SubTexture name="Sans Up0000" x="1069" y="908" width="438" height="470" frameX="-1" frameY="0" frameWidth="445" frameHeight="470"/>
+	<SubTexture name="Sans Up0001" x="1507" y="908" width="445" height="456" frameX="0" frameY="-14" frameWidth="445" frameHeight="470"/>
+</TextureAtlas>
